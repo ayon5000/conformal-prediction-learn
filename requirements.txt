@@ -7,3 +7,6 @@ scikit-learn
 scipy
 statsmodels
 mapie
+ipykernel
+wget
+openpyxl
